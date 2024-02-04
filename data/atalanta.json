@@ -1,0 +1,3535 @@
+[
+    {
+        "player": {
+            "name": "Marco Carnesecchi",
+            "firstName": "",
+            "lastName": "",
+            "slug": "marco-carnesecchi",
+            "shortName": "M. Carnesecchi",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "29",
+            "height": 192,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 947,
+            "gender": "M",
+            "id": 865646,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 29,
+            "dateOfBirthTimestamp": 962409600,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 13400000,
+            "proposedMarketValueRaw": {
+                "value": 13400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ماركو كارنيسكي"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. كارنيسكي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Giorgio Scalvini",
+            "firstName": "",
+            "lastName": "",
+            "slug": "giorgio-scalvini",
+            "shortName": "G. Scalvini",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "42",
+            "height": 194,
+            "preferredFoot": "Right",
+            "userCount": 2429,
+            "gender": "M",
+            "id": 1012176,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 42,
+            "dateOfBirthTimestamp": 1071100800,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 39000000,
+            "proposedMarketValueRaw": {
+                "value": 39000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "سكالفيني ، جورجيو"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. ، جورجيو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Hans Hateboer",
+            "slug": "hans-hateboer",
+            "shortName": "H. Hateboer",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "33",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 729,
+            "gender": "M",
+            "id": 356352,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 33,
+            "dateOfBirthTimestamp": 758073600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3900000,
+            "proposedMarketValueRaw": {
+                "value": 3900000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "هانس هاتيبور"
+                },
+                "shortNameTranslation": {
+                    "ar": "ه. هاتيبور"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Aleksei Miranchuk",
+            "firstName": "",
+            "lastName": "",
+            "slug": "aleksei-miranchuk",
+            "shortName": "A. Miranchuk",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "59",
+            "height": 182,
+            "preferredFoot": "Left",
+            "userCount": 3338,
+            "gender": "M",
+            "id": 324353,
+            "country": {
+                "alpha2": "RU",
+                "name": "Russia"
+            },
+            "shirtNumber": 59,
+            "dateOfBirthTimestamp": 813888000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 7100000,
+            "proposedMarketValueRaw": {
+                "value": 7100000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ألكساي ميرانشوك"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. ميرانشوك"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Emil Holm",
+            "slug": "emil-holm",
+            "shortName": "E. Holm",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "3",
+            "height": 191,
+            "preferredFoot": "Right",
+            "userCount": 625,
+            "gender": "M",
+            "id": 965264,
+            "country": {
+                "alpha2": "SE",
+                "name": "Sweden"
+            },
+            "shirtNumber": 3,
+            "dateOfBirthTimestamp": 958176000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 6300000,
+            "proposedMarketValueRaw": {
+                "value": 6300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "إميل هولم"
+                },
+                "shortNameTranslation": {
+                    "ar": "إ. هولم"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Sead Kolašinac",
+            "firstName": "",
+            "lastName": "",
+            "slug": "sead-kolasinac",
+            "shortName": "S. Kolašinac",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "23",
+            "height": 183,
+            "preferredFoot": "Left",
+            "userCount": 2379,
+            "gender": "M",
+            "id": 142148,
+            "country": {
+                "alpha2": "BA",
+                "name": "Bosnia & Herzegovina"
+            },
+            "shirtNumber": 23,
+            "dateOfBirthTimestamp": 740534400,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 8500000,
+            "proposedMarketValueRaw": {
+                "value": 8500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "كولاسيناك, سياد"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. كولاسيناك"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Berat Djimsiti",
+            "slug": "berat-djimsiti",
+            "shortName": "B. Djimsiti",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "19",
+            "height": 190,
+            "preferredFoot": "Right",
+            "userCount": 965,
+            "gender": "M",
+            "id": 151003,
+            "country": {
+                "alpha2": "AL",
+                "name": "Albania"
+            },
+            "shirtNumber": 19,
+            "dateOfBirthTimestamp": 730080000,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 10800000,
+            "proposedMarketValueRaw": {
+                "value": 10800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بيرات دجيمسيتي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. دجيمسيتي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "El Bilal Touré",
+            "slug": "el-bilal-toure",
+            "shortName": "E. B. Touré",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "10",
+            "height": 185,
+            "preferredFoot": "Both",
+            "retired": false,
+            "userCount": 2261,
+            "deceased": false,
+            "gender": "M",
+            "id": 982615,
+            "country": {
+                "alpha2": "ML",
+                "name": "Mali"
+            },
+            "shirtNumber": 10,
+            "dateOfBirthTimestamp": 1002067200,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 18000000,
+            "proposedMarketValueRaw": {
+                "value": 18000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "البلال توريه"
+                },
+                "shortNameTranslation": {
+                    "ar": "ا. توريه"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Gianluca Scamacca",
+            "firstName": "",
+            "lastName": "",
+            "slug": "gianluca-scamacca",
+            "shortName": "G. Scamacca",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "90",
+            "height": 195,
+            "preferredFoot": "Right",
+            "userCount": 4539,
+            "gender": "M",
+            "id": 807301,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 90,
+            "dateOfBirthTimestamp": 915148800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 27000000,
+            "proposedMarketValueRaw": {
+                "value": 27000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جيانلوكا سكاماكا"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. سكاماكا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Francesco Rossi",
+            "slug": "francesco-rossi",
+            "shortName": "F. Rossi",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "31",
+            "height": 193,
+            "preferredFoot": "Right",
+            "userCount": 117,
+            "gender": "M",
+            "id": 80074,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 31,
+            "dateOfBirthTimestamp": 672710400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 105000,
+            "proposedMarketValueRaw": {
+                "value": 105000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "فرانشيسكو روسي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ف. روسي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Éderson",
+            "firstName": "",
+            "lastName": "",
+            "slug": "ederson",
+            "shortName": "Éderson",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "13",
+            "height": 183,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 2178,
+            "gender": "M",
+            "id": 946888,
+            "country": {
+                "alpha2": "BR",
+                "name": "Brazil"
+            },
+            "shirtNumber": 13,
+            "dateOfBirthTimestamp": 931305600,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 26000000,
+            "proposedMarketValueRaw": {
+                "value": 26000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "إيدرسون"
+                },
+                "shortNameTranslation": {
+                    "ar": "إيدرسون"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Rafael Tolói",
+            "slug": "rafael-toloi",
+            "shortName": "R. Tolói",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "2",
+            "height": 185,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1267,
+            "deceased": false,
+            "gender": "M",
+            "id": 82943,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 2,
+            "dateOfBirthTimestamp": 655516800,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 4200000,
+            "proposedMarketValueRaw": {
+                "value": 4200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "رافائيل تولوي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. تولوي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Mitchel Bakker",
+            "firstName": "",
+            "lastName": "",
+            "slug": "mitchel-bakker",
+            "shortName": "M. Bakker",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "20",
+            "height": 185,
+            "preferredFoot": "Left",
+            "userCount": 1268,
+            "gender": "M",
+            "id": 856638,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 20,
+            "dateOfBirthTimestamp": 961459200,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 8700000,
+            "proposedMarketValueRaw": {
+                "value": 8700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميتشل باكر"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. باكر"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Luis Muriel",
+            "slug": "luis-muriel",
+            "shortName": "L. Muriel",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 178,
+            "preferredFoot": "Right",
+            "userCount": 5234,
+            "gender": "M",
+            "id": 119242,
+            "country": {
+                "alpha2": "CO",
+                "name": "Colombia"
+            },
+            "shirtNumber": 9,
+            "dateOfBirthTimestamp": 671760000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3700000,
+            "proposedMarketValueRaw": {
+                "value": 3700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لويس موريال"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. موريال"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Matteo Ruggeri",
+            "slug": "matteo-ruggeri",
+            "shortName": "M. Ruggeri",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "22",
+            "height": 187,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 702,
+            "deceased": false,
+            "gender": "M",
+            "id": 965011,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 22,
+            "dateOfBirthTimestamp": 1026345600,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 14600000,
+            "proposedMarketValueRaw": {
+                "value": 14600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "روجيري ، ماتيو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. ، ماتيو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Davide Zappacosta",
+            "slug": "davide-zappacosta",
+            "shortName": "D. Zappacosta",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "77",
+            "height": 182,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1283,
+            "deceased": false,
+            "gender": "M",
+            "id": 132318,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 77,
+            "dateOfBirthTimestamp": 708220800,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 6500000,
+            "proposedMarketValueRaw": {
+                "value": 6500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "زاباكوستا, دافيدي"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. زاباكوستا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Teun Koopmeiners",
+            "slug": "teun-koopmeiners",
+            "shortName": "T. Koopmeiners",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "7",
+            "height": 183,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 3504,
+            "deceased": false,
+            "gender": "M",
+            "id": 803033,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 7,
+            "dateOfBirthTimestamp": 888624000,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 38000000,
+            "proposedMarketValueRaw": {
+                "value": 38000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "تيون كوبمينرز"
+                },
+                "shortNameTranslation": {
+                    "ar": "ت. كوبمينرز"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Juan Musso",
+            "slug": "juan-musso",
+            "shortName": "J. Musso",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "1",
+            "height": 191,
+            "preferredFoot": "Right",
+            "userCount": 2561,
+            "gender": "M",
+            "id": 263651,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 1,
+            "dateOfBirthTimestamp": 768182400,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 8600000,
+            "proposedMarketValueRaw": {
+                "value": 8600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "خوان موسو"
+                },
+                "shortNameTranslation": {
+                    "ar": "خ. موسو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Ademola Lookman",
+            "slug": "ademola-lookman",
+            "shortName": "A. Lookman",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "11",
+            "height": 174,
+            "preferredFoot": "Right",
+            "userCount": 6670,
+            "gender": "M",
+            "id": 824200,
+            "country": {
+                "alpha2": "NG",
+                "name": "Nigeria"
+            },
+            "shirtNumber": 11,
+            "dateOfBirthTimestamp": 877305600,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 33000000,
+            "proposedMarketValueRaw": {
+                "value": 33000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لوكمان, أديمولا"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. لوكمان"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Isak Hien",
+            "slug": "hien-isak",
+            "shortName": "I. Hien",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "4",
+            "height": 191,
+            "preferredFoot": "Right",
+            "userCount": 634,
+            "gender": "M",
+            "id": 1157713,
+            "country": {
+                "alpha2": "SE",
+                "name": "Sweden"
+            },
+            "shirtNumber": 4,
+            "dateOfBirthTimestamp": 916185600,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 8700000,
+            "proposedMarketValueRaw": {
+                "value": 8700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "هين ، إيزاك"
+                },
+                "shortNameTranslation": {
+                    "ar": "ه. ، إيزاك"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Mario Pašalić",
+            "slug": "mario-pasalic",
+            "shortName": "M. Pašalić",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "8",
+            "height": 189,
+            "preferredFoot": "Both",
+            "userCount": 5720,
+            "gender": "M",
+            "id": 190437,
+            "country": {
+                "alpha2": "HR",
+                "name": "Croatia"
+            },
+            "shirtNumber": 8,
+            "dateOfBirthTimestamp": 792288000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 13400000,
+            "proposedMarketValueRaw": {
+                "value": 13400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بازاليتش, ماريو"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. بازاليتش"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Michel Ndary Adopo",
+            "slug": "michel-ndary-adopo",
+            "shortName": "M. N. Adopo",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "25",
+            "height": 187,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 169,
+            "deceased": false,
+            "gender": "M",
+            "id": 928777,
+            "country": {
+                "alpha2": "FR",
+                "name": "France"
+            },
+            "shirtNumber": 25,
+            "dateOfBirthTimestamp": 963964800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 970000,
+            "proposedMarketValueRaw": {
+                "value": 970000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أدوبو ، ميشيل نداري"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. ، م. نداري"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "José Luis Palomino",
+            "slug": "jose-luis-palomino",
+            "shortName": "J. L. Palomino",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "6",
+            "height": 188,
+            "preferredFoot": "Left",
+            "userCount": 729,
+            "gender": "M",
+            "id": 79680,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 6,
+            "dateOfBirthTimestamp": 631497600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 935000,
+            "proposedMarketValueRaw": {
+                "value": 935000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "خوسيه لويس بالومينو"
+                },
+                "shortNameTranslation": {
+                    "ar": "خ. ل. بالومينو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Marten de Roon",
+            "slug": "marten-de-roon",
+            "shortName": "M. d. Roon",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "15",
+            "height": 185,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1345,
+            "deceased": false,
+            "gender": "M",
+            "id": 100389,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 15,
+            "dateOfBirthTimestamp": 670204800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 7700000,
+            "proposedMarketValueRaw": {
+                "value": 7700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "مارتن ديرون"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. ديرون"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Charles De Ketelaere",
+            "firstName": "",
+            "lastName": "",
+            "slug": "charles-de-ketelaere",
+            "shortName": "C. De Ketelaere",
+            "team": {
+                "name": "Atalanta",
+                "slug": "atalanta",
+                "shortName": "Atalanta",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 243899,
+                "nameCode": "ATA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2686,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#0000cc",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "أتلانتا بيرغامو"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "17",
+            "height": 192,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 8193,
+            "gender": "M",
+            "id": 960441,
+            "country": {
+                "alpha2": "BE",
+                "name": "Belgium"
+            },
+            "shirtNumber": 17,
+            "dateOfBirthTimestamp": 984182400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 23000000,
+            "proposedMarketValueRaw": {
+                "value": 23000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دي كاتيلايير, تشارلز"
+                },
+                "shortNameTranslation": {
+                    "ar": "ت. د. كاتيلايير"
+                }
+            }
+        }
+    }
+]

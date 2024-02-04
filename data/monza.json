@@ -1,0 +1,4236 @@
+[
+    {
+        "player": {
+            "name": "Lorenzo Colombo",
+            "firstName": "",
+            "lastName": "",
+            "slug": "lorenzo-colombo",
+            "shortName": "L. Colombo",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 183,
+            "preferredFoot": "Left",
+            "userCount": 1799,
+            "gender": "M",
+            "id": 930191,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 9,
+            "dateOfBirthTimestamp": 1015545600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 7700000,
+            "proposedMarketValueRaw": {
+                "value": 7700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لورينزو كولومبو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. كولومبو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Samuele Birindelli",
+            "slug": "samuele-birindelli",
+            "shortName": "S. Birindelli",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "19",
+            "height": 175,
+            "preferredFoot": "Right",
+            "userCount": 284,
+            "gender": "M",
+            "id": 856729,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 19,
+            "dateOfBirthTimestamp": 932342400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 2400000,
+            "proposedMarketValueRaw": {
+                "value": 2400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بيرنديلي ، صامويل"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ، صامويل"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "José Machín",
+            "slug": "jose-machin",
+            "shortName": "J. Machín",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "7",
+            "height": 184,
+            "preferredFoot": "Right",
+            "userCount": 250,
+            "gender": "M",
+            "id": 792308,
+            "country": {
+                "alpha2": "GQ",
+                "name": "Equatorial Guinea"
+            },
+            "shirtNumber": 7,
+            "dateOfBirthTimestamp": 839980800,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 1500000,
+            "proposedMarketValueRaw": {
+                "value": 1500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بيبين"
+                },
+                "shortNameTranslation": {
+                    "ar": "بيبين"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Gianluca Caprari",
+            "slug": "gianluca-caprari",
+            "shortName": "G. Caprari",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "10",
+            "height": 170,
+            "preferredFoot": "Right",
+            "userCount": 923,
+            "gender": "M",
+            "id": 148458,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 10,
+            "dateOfBirthTimestamp": 743990400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 5300000,
+            "proposedMarketValueRaw": {
+                "value": 5300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دجيان لوكا كاپراري"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. ل. كاپراري"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Papu Gómez",
+            "firstName": "",
+            "lastName": "",
+            "slug": "papu-gomez",
+            "shortName": "P. Gómez",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "24",
+            "height": 165,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 6491,
+            "gender": "M",
+            "id": 33381,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 24,
+            "dateOfBirthTimestamp": 571881600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3200000,
+            "proposedMarketValueRaw": {
+                "value": 3200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "الهاندرو جوميز"
+                },
+                "shortNameTranslation": {
+                    "ar": "ا. جوميز"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Danilo D'Ambrosio",
+            "firstName": "",
+            "lastName": "",
+            "slug": "danilo-dambrosio",
+            "shortName": "D. D'Ambrosio",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "33",
+            "height": 180,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1013,
+            "gender": "M",
+            "id": 107936,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 33,
+            "dateOfBirthTimestamp": 589766400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1000000,
+            "proposedMarketValueRaw": {
+                "value": 1000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دانيالو دامبروزيو"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. دامبروزيو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Matteo Pessina",
+            "slug": "matteo-pessina",
+            "shortName": "M. Pessina",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "32",
+            "height": 183,
+            "preferredFoot": "Left",
+            "userCount": 1231,
+            "gender": "M",
+            "id": 350210,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 32,
+            "dateOfBirthTimestamp": 861580800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 14500000,
+            "proposedMarketValueRaw": {
+                "value": 14500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ماتيو بيسينا"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. بيسينا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Pablo Marí",
+            "firstName": "",
+            "lastName": "",
+            "slug": "pablo-mari",
+            "shortName": "P. Marí",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "22",
+            "height": 191,
+            "preferredFoot": "Left",
+            "userCount": 1333,
+            "gender": "M",
+            "id": 208988,
+            "country": {
+                "alpha2": "ES",
+                "name": "Spain"
+            },
+            "shirtNumber": 22,
+            "dateOfBirthTimestamp": 746755200,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 5400000,
+            "proposedMarketValueRaw": {
+                "value": 5400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ماري, بابلو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ماري"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Giulio Donati",
+            "firstName": "",
+            "lastName": "",
+            "slug": "giulio-donati",
+            "shortName": "G. Donati",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "2",
+            "height": 178,
+            "preferredFoot": "Right",
+            "userCount": 82,
+            "gender": "M",
+            "id": 103156,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 2,
+            "dateOfBirthTimestamp": 634176000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 385000,
+            "proposedMarketValueRaw": {
+                "value": 385000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جيوليو دوناتي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. دوناتي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Jean-Daniel Akpa Akpro",
+            "firstName": "",
+            "lastName": "",
+            "slug": "jean-daniel-akpa-akpro",
+            "shortName": "J. A. Akpro",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "8",
+            "height": 180,
+            "preferredFoot": "Right",
+            "userCount": 366,
+            "gender": "M",
+            "id": 164511,
+            "country": {
+                "alpha2": "CI",
+                "name": "Ivory Coast"
+            },
+            "shirtNumber": 8,
+            "dateOfBirthTimestamp": 718761600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1000000,
+            "proposedMarketValueRaw": {
+                "value": 1000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جون دانييل آكپا آكپرو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. د. آ. آكپرو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Valentín Carboni",
+            "firstName": "",
+            "lastName": "",
+            "slug": "valentin-carboni",
+            "shortName": "V. Carboni",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "21",
+            "height": 185,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 2600,
+            "gender": "M",
+            "id": 1153083,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 21,
+            "dateOfBirthTimestamp": 1109980800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 5400000,
+            "proposedMarketValueRaw": {
+                "value": 5400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "فالنتين كاربوني"
+                },
+                "shortNameTranslation": {
+                    "ar": "ف. كاربوني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Michele Di Gregorio",
+            "firstName": "",
+            "lastName": "",
+            "slug": "michele-di-gregorio",
+            "shortName": "M. Di Gregorio",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "16",
+            "height": 187,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 781,
+            "gender": "M",
+            "id": 844609,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 16,
+            "dateOfBirthTimestamp": 869961600,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 11500000,
+            "proposedMarketValueRaw": {
+                "value": 11500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميشيل دي غريغوريو"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. د. غريغوريو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Davide Bettella",
+            "firstName": "",
+            "lastName": "",
+            "slug": "davide-bettella",
+            "shortName": "D. Bettella",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "18",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 176,
+            "gender": "M",
+            "id": 826189,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 18,
+            "dateOfBirthTimestamp": 955065600,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 1200000,
+            "proposedMarketValueRaw": {
+                "value": 1200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بيتيلا ، دافيد"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ، دافيد"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Armando Izzo",
+            "slug": "armando-izzo",
+            "shortName": "A. Izzo",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "4",
+            "height": 183,
+            "preferredFoot": "Right",
+            "userCount": 601,
+            "gender": "M",
+            "id": 165583,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 4,
+            "dateOfBirthTimestamp": 699494400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 2700000,
+            "proposedMarketValueRaw": {
+                "value": 2700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أرماندو إيزو"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. إيزو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Stefano Gori",
+            "firstName": "",
+            "lastName": "",
+            "slug": "stefano-gori",
+            "shortName": "S. Gori",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "66",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 122,
+            "gender": "M",
+            "id": 364716,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 66,
+            "dateOfBirthTimestamp": 826329600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 725000,
+            "proposedMarketValueRaw": {
+                "value": 725000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ستيفانو غوري"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. غوري"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Matija Popović",
+            "firstName": "Matija Popovic",
+            "slug": "matija-popovic",
+            "shortName": "M. Popović",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "height": 196,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 400,
+            "deceased": false,
+            "id": 1429958,
+            "country": {
+                "alpha2": "RS",
+                "name": "Serbia"
+            },
+            "dateOfBirthTimestamp": 1136678400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 2200000,
+            "proposedMarketValueRaw": {
+                "value": 2200000,
+                "currency": "EUR"
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Alessio Zerbin",
+            "firstName": "",
+            "lastName": "",
+            "slug": "alessio-zerbin",
+            "shortName": "A. Zerbin",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "20",
+            "height": 182,
+            "preferredFoot": "Right",
+            "userCount": 736,
+            "gender": "M",
+            "id": 869888,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 20,
+            "dateOfBirthTimestamp": 920419200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3800000,
+            "proposedMarketValueRaw": {
+                "value": 3800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أليسيو"
+                },
+                "shortNameTranslation": {
+                    "ar": "أليسيو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Georgios Kyriakopoulos",
+            "slug": "georgios-kyriakopoulos",
+            "shortName": "G. Kyriakopoulos",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "77",
+            "height": 178,
+            "preferredFoot": "Left",
+            "userCount": 642,
+            "gender": "M",
+            "id": 377302,
+            "country": {
+                "alpha2": "GR",
+                "name": "Greece"
+            },
+            "shirtNumber": 77,
+            "dateOfBirthTimestamp": 823478400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3600000,
+            "proposedMarketValueRaw": {
+                "value": 3600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جيورجوس كيرياكوبولوس"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. كيرياكوبولوس"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Andrea Colpani",
+            "firstName": "",
+            "lastName": "",
+            "slug": "colpani-andrea",
+            "shortName": "A. Colpani",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "28",
+            "height": 186,
+            "preferredFoot": "Left",
+            "userCount": 1073,
+            "gender": "M",
+            "id": 928122,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 28,
+            "dateOfBirthTimestamp": 926380800,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 14300000,
+            "proposedMarketValueRaw": {
+                "value": 14300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أندريا كولباني"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. كولباني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Milan Đurić",
+            "firstName": "",
+            "lastName": "",
+            "slug": "milan-duric",
+            "shortName": "M. Đurić",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "11",
+            "height": 199,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 709,
+            "gender": "M",
+            "id": 76132,
+            "country": {
+                "alpha2": "BA",
+                "name": "Bosnia & Herzegovina"
+            },
+            "shirtNumber": 11,
+            "dateOfBirthTimestamp": 643334400,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 1100000,
+            "proposedMarketValueRaw": {
+                "value": 1100000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميلانو ديوروفيتش"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. ديوروفيتش"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Daniel Maldini",
+            "firstName": "",
+            "lastName": "",
+            "slug": "daniel-maldini",
+            "shortName": "D. Maldini",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "27",
+            "height": 187,
+            "preferredFoot": "Right",
+            "userCount": 2270,
+            "gender": "M",
+            "id": 970928,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 27,
+            "dateOfBirthTimestamp": 1002758400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3200000,
+            "proposedMarketValueRaw": {
+                "value": 3200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دانيال مالديني"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. مالديني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Luca Caldirola",
+            "slug": "luca-caldirola",
+            "shortName": "L. Caldirola",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "5",
+            "height": 189,
+            "preferredFoot": "Left",
+            "userCount": 191,
+            "gender": "M",
+            "id": 100565,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 5,
+            "dateOfBirthTimestamp": 665366400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1500000,
+            "proposedMarketValueRaw": {
+                "value": 1500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لوكا كالديرولا"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. كالديرولا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Samuele Vignato",
+            "firstName": "Samuele Vignato",
+            "lastName": "",
+            "slug": "samuele-vignato",
+            "shortName": "S. Vignato",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "80",
+            "height": 170,
+            "preferredFoot": "Right",
+            "userCount": 423,
+            "gender": "M",
+            "id": 1119364,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 80,
+            "dateOfBirthTimestamp": 1077580800,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 3700000,
+            "proposedMarketValueRaw": {
+                "value": 3700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "فيغ ناتو ، صامويل"
+                },
+                "shortNameTranslation": {
+                    "ar": "ف. ن. ، صامويل"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Dany Mota",
+            "slug": "dany-mota",
+            "shortName": "D. Mota",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "47",
+            "height": 180,
+            "preferredFoot": "Right",
+            "userCount": 827,
+            "gender": "M",
+            "id": 838907,
+            "country": {
+                "alpha2": "PT",
+                "name": "Portugal"
+            },
+            "shirtNumber": 47,
+            "dateOfBirthTimestamp": 894067200,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 5500000,
+            "proposedMarketValueRaw": {
+                "value": 5500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "داني موتا"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. موتا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Alessandro Sorrentino",
+            "firstName": "",
+            "lastName": "",
+            "slug": "alessandro-sorrentino",
+            "shortName": "A. Sorrentino",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "23",
+            "height": 190,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 51,
+            "gender": "M",
+            "id": 991416,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 23,
+            "dateOfBirthTimestamp": 1017792000,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 540000,
+            "proposedMarketValueRaw": {
+                "value": 540000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "سورينتينو ، أليساندرو"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. ، أليساندرو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Roberto Gagliardini",
+            "slug": "roberto-gagliardini",
+            "shortName": "R. Gagliardini",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "6",
+            "height": 188,
+            "preferredFoot": "Right",
+            "userCount": 887,
+            "gender": "M",
+            "id": 287057,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 6,
+            "dateOfBirthTimestamp": 765676800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3800000,
+            "proposedMarketValueRaw": {
+                "value": 3800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "روبرتو غاغريالديني"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. غاغريالديني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Pedro Pereira",
+            "firstName": "",
+            "lastName": "",
+            "slug": "pedro-pereira",
+            "shortName": "P. Pereira",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "13",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 187,
+            "gender": "M",
+            "id": 807291,
+            "country": {
+                "alpha2": "PT",
+                "name": "Portugal"
+            },
+            "shirtNumber": 13,
+            "dateOfBirthTimestamp": 885427200,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 1600000,
+            "proposedMarketValueRaw": {
+                "value": 1600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بيدرو بيريرا"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. بيريرا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Andrea Carboni",
+            "firstName": "",
+            "lastName": "",
+            "slug": "andrea-carboni",
+            "shortName": "A. Carboni",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "44",
+            "height": 185,
+            "preferredFoot": "Left",
+            "userCount": 152,
+            "gender": "M",
+            "id": 970978,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 44,
+            "dateOfBirthTimestamp": 981244800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 3800000,
+            "proposedMarketValueRaw": {
+                "value": 3800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "كاربوني, أندريا"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. كاربوني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Patrick Ciurria",
+            "slug": "patrick-ciurria",
+            "shortName": "P. Ciurria",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "84",
+            "height": 178,
+            "preferredFoot": "Both",
+            "userCount": 534,
+            "gender": "M",
+            "id": 346676,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 84,
+            "dateOfBirthTimestamp": 792288000,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 5200000,
+            "proposedMarketValueRaw": {
+                "value": 5200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "سيريا ، باتريك"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. ، باتريك"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Warren Bondo",
+            "slug": "warren-bondo",
+            "shortName": "W. Bondo",
+            "team": {
+                "name": "Monza",
+                "slug": "monza",
+                "shortName": "Monza",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie B",
+                        "slug": "serie-b",
+                        "primaryColorHex": "#027d32",
+                        "secondaryColorHex": "#f18f01",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 44709,
+                        "id": 53,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 302,
+                    "id": 34
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 64141,
+                "nameCode": "MON",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2729,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#d71742",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "اي سي مونزا"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "38",
+            "height": 177,
+            "preferredFoot": "Right",
+            "userCount": 327,
+            "gender": "M",
+            "id": 1000366,
+            "country": {
+                "alpha2": "FR",
+                "name": "France"
+            },
+            "shirtNumber": 38,
+            "dateOfBirthTimestamp": 1063584000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 955000,
+            "proposedMarketValueRaw": {
+                "value": 955000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بوندو ، وارن"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ، وارن"
+                }
+            }
+        }
+    }
+]

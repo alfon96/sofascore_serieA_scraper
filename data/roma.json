@@ -1,0 +1,3816 @@
+[
+    {
+        "player": {
+            "name": "Lorenzo Pellegrini",
+            "firstName": "",
+            "lastName": "",
+            "slug": "lorenzo-pellegrini",
+            "shortName": "L. Pellegrini",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "7",
+            "height": 186,
+            "preferredFoot": "Both",
+            "userCount": 5115,
+            "gender": "M",
+            "id": 555540,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 7,
+            "dateOfBirthTimestamp": 835142400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 26000000,
+            "proposedMarketValueRaw": {
+                "value": 26000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لورنزو بيليجريني"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. بيليجريني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Angeliño",
+            "firstName": "",
+            "lastName": "",
+            "slug": "angelino",
+            "shortName": "Angeliño",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "3",
+            "height": 171,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 2873,
+            "gender": "M",
+            "id": 848355,
+            "country": {
+                "alpha2": "ES",
+                "name": "Spain"
+            },
+            "shirtNumber": 3,
+            "dateOfBirthTimestamp": 852336000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 7400000,
+            "proposedMarketValueRaw": {
+                "value": 7400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أنخيلينو"
+                },
+                "shortNameTranslation": {
+                    "ar": "أنخيلينو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Dean Huijsen",
+            "firstName": "",
+            "lastName": "",
+            "slug": "dean-huijsen",
+            "shortName": "D. Huijsen",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "3",
+            "height": 195,
+            "preferredFoot": "Both",
+            "retired": false,
+            "userCount": 1246,
+            "gender": "M",
+            "id": 1176744,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 3,
+            "dateOfBirthTimestamp": 1113436800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 2700000,
+            "proposedMarketValueRaw": {
+                "value": 2700000,
+                "currency": "EUR"
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Tammy Abraham",
+            "firstName": "",
+            "lastName": "",
+            "slug": "tammy-abraham",
+            "shortName": "T. Abraham",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 199,
+            "preferredFoot": "Right",
+            "userCount": 14006,
+            "gender": "M",
+            "id": 610766,
+            "country": {
+                "alpha2": "EN",
+                "name": "England"
+            },
+            "shirtNumber": 9,
+            "dateOfBirthTimestamp": 875750400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 32000000,
+            "proposedMarketValueRaw": {
+                "value": 32000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أبراهام, تامي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ت. أبراهام"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Leandro Paredes",
+            "firstName": "",
+            "lastName": "",
+            "slug": "leandro-paredes",
+            "shortName": "L. Paredes",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "16",
+            "height": 180,
+            "preferredFoot": "Right",
+            "userCount": 13957,
+            "gender": "M",
+            "id": 255389,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 16,
+            "dateOfBirthTimestamp": 772848000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 8500000,
+            "proposedMarketValueRaw": {
+                "value": 8500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لياندرو باريديس"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. باريديس"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Bryan Cristante",
+            "slug": "bryan-cristante",
+            "shortName": "B. Cristante",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "4",
+            "height": 186,
+            "preferredFoot": "Right",
+            "userCount": 1925,
+            "gender": "M",
+            "id": 186855,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 4,
+            "dateOfBirthTimestamp": 794188800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 22000000,
+            "proposedMarketValueRaw": {
+                "value": 22000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "برايان كريستانتي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. كريستانتي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Renato Sanches",
+            "slug": "renato-sanches",
+            "shortName": "R. Sanches",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "20",
+            "height": 176,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 8063,
+            "deceased": false,
+            "gender": "M",
+            "id": 318967,
+            "country": {
+                "alpha2": "PT",
+                "name": "Portugal"
+            },
+            "shirtNumber": 20,
+            "dateOfBirthTimestamp": 871862400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 10700000,
+            "proposedMarketValueRaw": {
+                "value": 10700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ريناتو سانشيز"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. سانشيز"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Paulo Dybala",
+            "firstName": "",
+            "lastName": "",
+            "slug": "paulo-dybala",
+            "shortName": "P. Dybala",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "21",
+            "height": 177,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 86335,
+            "gender": "M",
+            "id": 256219,
+            "country": {
+                "alpha2": "AR",
+                "name": "Argentina"
+            },
+            "shirtNumber": 21,
+            "dateOfBirthTimestamp": 753321600,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 26000000,
+            "proposedMarketValueRaw": {
+                "value": 26000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "باولو ديبالا"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ديبالا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Nicola Zalewski",
+            "firstName": "",
+            "lastName": "",
+            "slug": "nicola-zalewski",
+            "shortName": "N. Zalewski",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "59",
+            "height": 175,
+            "preferredFoot": "Both",
+            "userCount": 6539,
+            "gender": "M",
+            "id": 984184,
+            "country": {
+                "alpha2": "PL",
+                "name": "Poland"
+            },
+            "shirtNumber": 59,
+            "dateOfBirthTimestamp": 1011744000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 14800000,
+            "proposedMarketValueRaw": {
+                "value": 14800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "نيكولا زاليوسكي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ن. زاليوسكي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Rick Karsdorp",
+            "slug": "rick-karsdorp",
+            "shortName": "R. Karsdorp",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "2",
+            "height": 182,
+            "preferredFoot": "Right",
+            "userCount": 951,
+            "gender": "M",
+            "id": 363792,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 2,
+            "dateOfBirthTimestamp": 792460800,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 7400000,
+            "proposedMarketValueRaw": {
+                "value": 7400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ريك هارسدروب"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. هارسدروب"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Rasmus Kristensen",
+            "slug": "rasmus-kristensen",
+            "shortName": "R. Kristensen",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "43",
+            "height": 186,
+            "preferredFoot": "Right",
+            "userCount": 1363,
+            "gender": "M",
+            "id": 921789,
+            "country": {
+                "alpha2": "DK",
+                "name": "Denmark"
+            },
+            "shirtNumber": 43,
+            "dateOfBirthTimestamp": 868579200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 10700000,
+            "proposedMarketValueRaw": {
+                "value": 10700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "نيسن، راسموس"
+                },
+                "shortNameTranslation": {
+                    "ar": "ن. راسموس"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Stephan El Shaarawy",
+            "slug": "stephan-el-shaarawy",
+            "shortName": "S. El Shaarawy",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "92",
+            "height": 178,
+            "preferredFoot": "Right",
+            "userCount": 4994,
+            "gender": "M",
+            "id": 45925,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 92,
+            "dateOfBirthTimestamp": 720144000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 4700000,
+            "proposedMarketValueRaw": {
+                "value": 4700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "الشعراوي ستيفان"
+                },
+                "shortNameTranslation": {
+                    "ar": "ا. ستيفان"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Leonardo Spinazzola",
+            "slug": "leonardo-spinazzola",
+            "shortName": "L. Spinazzola",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "37",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 2390,
+            "gender": "M",
+            "id": 148899,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 37,
+            "dateOfBirthTimestamp": 733017600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 7300000,
+            "proposedMarketValueRaw": {
+                "value": 7300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ليوناردو سبينازولا"
+                },
+                "shortNameTranslation": {
+                    "ar": "ل. سبينازولا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Romelu Lukaku",
+            "slug": "romelu-lukaku",
+            "shortName": "R. Lukaku",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "90",
+            "height": 191,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 51106,
+            "deceased": false,
+            "gender": "M",
+            "id": 78893,
+            "country": {
+                "alpha2": "BE",
+                "name": "Belgium"
+            },
+            "shirtNumber": 90,
+            "dateOfBirthTimestamp": 737251200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 34000000,
+            "proposedMarketValueRaw": {
+                "value": 34000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "روميلو لوكاكو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. لوكاكو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Mile Svilar",
+            "slug": "svilar-mile",
+            "shortName": "M. Svilar",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "99",
+            "height": 189,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1243,
+            "deceased": false,
+            "gender": "M",
+            "id": 793986,
+            "country": {
+                "alpha2": "RS",
+                "name": "Serbia"
+            },
+            "shirtNumber": 99,
+            "dateOfBirthTimestamp": 935712000,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 1400000,
+            "proposedMarketValueRaw": {
+                "value": 1400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميلي سفيلار"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. سفيلار"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Gianluca Mancini",
+            "slug": "gianluca-mancini",
+            "shortName": "G. Mancini",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "23",
+            "height": 190,
+            "preferredFoot": "Right",
+            "userCount": 2296,
+            "gender": "M",
+            "id": 611210,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 23,
+            "dateOfBirthTimestamp": 829699200,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 19400000,
+            "proposedMarketValueRaw": {
+                "value": 19400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جيانلوكا مانشيني"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. مانشيني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Tommaso Baldanzi",
+            "firstName": "",
+            "lastName": "",
+            "slug": "tommaso-baldanzi",
+            "shortName": "T. Baldanzi",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "35",
+            "height": 170,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 1651,
+            "gender": "M",
+            "id": 1012172,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 35,
+            "dateOfBirthTimestamp": 1048377600,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 14000000,
+            "proposedMarketValueRaw": {
+                "value": 14000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "توماسو بالدانزي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ت. بالدانزي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Diego Llorente",
+            "slug": "diego-llorente",
+            "shortName": "D. Llorente",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "14",
+            "height": 185,
+            "preferredFoot": "Right",
+            "userCount": 924,
+            "gender": "M",
+            "id": 305278,
+            "country": {
+                "alpha2": "ES",
+                "name": "Spain"
+            },
+            "shirtNumber": 14,
+            "dateOfBirthTimestamp": 745459200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 8300000,
+            "proposedMarketValueRaw": {
+                "value": 8300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "لورينتي, دييغو"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. لورينتي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Rui Patrício",
+            "slug": "rui-patricio",
+            "shortName": "R. Patrício",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "1",
+            "height": 190,
+            "preferredFoot": "Left",
+            "userCount": 3619,
+            "gender": "M",
+            "id": 17737,
+            "country": {
+                "alpha2": "PT",
+                "name": "Portugal"
+            },
+            "shirtNumber": 1,
+            "dateOfBirthTimestamp": 571881600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3700000,
+            "proposedMarketValueRaw": {
+                "value": 3700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "باتريسيو, روي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. باتريسيو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Sardar Azmoun",
+            "slug": "sardar-azmoun",
+            "shortName": "S. Azmoun",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "17",
+            "height": 186,
+            "preferredFoot": "Both",
+            "retired": false,
+            "userCount": 7525,
+            "deceased": false,
+            "gender": "M",
+            "id": 150998,
+            "country": {
+                "alpha2": "IR",
+                "name": "Iran"
+            },
+            "shirtNumber": 17,
+            "dateOfBirthTimestamp": 788918400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 9500000,
+            "proposedMarketValueRaw": {
+                "value": 9500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ساردار آزمون"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. آزمون"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Riccardo Pagano",
+            "firstName": "",
+            "lastName": "",
+            "slug": "pagano-riccardo",
+            "shortName": "R. Pagano",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "60",
+            "height": 175,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 241,
+            "gender": "M",
+            "id": 1105138,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 60,
+            "dateOfBirthTimestamp": 1101600000,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 1600000,
+            "proposedMarketValueRaw": {
+                "value": 1600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ريكاردو باغانو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. باغانو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Edoardo Bove",
+            "firstName": "",
+            "lastName": "",
+            "slug": "edoardo-bove",
+            "shortName": "E. Bove",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "52",
+            "height": 181,
+            "preferredFoot": "Right",
+            "userCount": 926,
+            "gender": "M",
+            "id": 986352,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 52,
+            "dateOfBirthTimestamp": 1021507200,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 16100000,
+            "proposedMarketValueRaw": {
+                "value": 16100000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "إدواردو بوف"
+                },
+                "shortNameTranslation": {
+                    "ar": "إ. بوف"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Pietro Boer",
+            "slug": "pietro-boer",
+            "shortName": "P. Boer",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "63",
+            "height": 193,
+            "preferredFoot": "Right",
+            "userCount": 299,
+            "gender": "M",
+            "id": 1008563,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 63,
+            "dateOfBirthTimestamp": 1021161600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 140000,
+            "proposedMarketValueRaw": {
+                "value": 140000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "بوير ، بيترو"
+                },
+                "shortNameTranslation": {
+                    "ar": "ب. ، بيترو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Chris Smalling",
+            "slug": "chris-smalling",
+            "shortName": "C. Smalling",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "6",
+            "height": 192,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 2710,
+            "deceased": false,
+            "gender": "M",
+            "id": 47741,
+            "country": {
+                "alpha2": "EN",
+                "name": "England"
+            },
+            "shirtNumber": 6,
+            "dateOfBirthTimestamp": 627696000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 3800000,
+            "proposedMarketValueRaw": {
+                "value": 3800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "سمولنج, كريس"
+                },
+                "shortNameTranslation": {
+                    "ar": "ك. سمولنج"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Evan Ndicka",
+            "firstName": "",
+            "lastName": "",
+            "slug": "evan-ndicka",
+            "shortName": "E. Ndicka",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "5",
+            "height": 190,
+            "preferredFoot": "Left",
+            "userCount": 2245,
+            "gender": "M",
+            "id": 848287,
+            "country": {
+                "alpha2": "CI",
+                "name": "Ivory Coast"
+            },
+            "shirtNumber": 5,
+            "dateOfBirthTimestamp": 935107200,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 23000000,
+            "proposedMarketValueRaw": {
+                "value": 23000000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "نديكا, إيفان"
+                },
+                "shortNameTranslation": {
+                    "ar": "إ. نديكا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Zeki Çelik",
+            "firstName": "",
+            "lastName": "",
+            "slug": "zeki-celik",
+            "shortName": "Z. Çelik",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "19",
+            "height": 180,
+            "preferredFoot": "Right",
+            "userCount": 1796,
+            "gender": "M",
+            "id": 893008,
+            "country": {
+                "alpha2": "TR",
+                "name": "Turkey"
+            },
+            "shirtNumber": 19,
+            "dateOfBirthTimestamp": 856137600,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 6200000,
+            "proposedMarketValueRaw": {
+                "value": 6200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "زكي جليك"
+                },
+                "shortNameTranslation": {
+                    "ar": "ز. جليك"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Houssem Aouar",
+            "firstName": "",
+            "lastName": "",
+            "slug": "aouar-houssem",
+            "shortName": "H. Aouar",
+            "team": {
+                "name": "Roma",
+                "slug": "roma",
+                "shortName": "Roma",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 478553,
+                "nameCode": "ASR",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2702,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#990000",
+                    "secondary": "#eaca15",
+                    "text": "#eaca15"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "إيه إس روما"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "22",
+            "height": 175,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 10034,
+            "gender": "M",
+            "id": 846081,
+            "country": {
+                "alpha2": "DZ",
+                "name": "Algeria"
+            },
+            "shirtNumber": 22,
+            "dateOfBirthTimestamp": 899164800,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 11800000,
+            "proposedMarketValueRaw": {
+                "value": 11800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "حسام عوار"
+                },
+                "shortNameTranslation": {
+                    "ar": "ح. عوار"
+                }
+            }
+        }
+    }
+]

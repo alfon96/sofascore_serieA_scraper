@@ -1,0 +1,3935 @@
+[
+    {
+        "player": {
+            "name": "Nicola Leali",
+            "slug": "nicola-leali",
+            "shortName": "N. Leali",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "16",
+            "height": 193,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 102,
+            "deceased": false,
+            "gender": "M",
+            "id": 98059,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 16,
+            "dateOfBirthTimestamp": 729907200,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 825000,
+            "proposedMarketValueRaw": {
+                "value": 825000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "نكولا ليالي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ن. ليالي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Morten Frendrup",
+            "slug": "morten-frendrup",
+            "shortName": "M. Frendrup",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "32",
+            "height": 178,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 868,
+            "deceased": false,
+            "gender": "M",
+            "id": 918440,
+            "country": {
+                "alpha2": "DK",
+                "name": "Denmark"
+            },
+            "shirtNumber": 32,
+            "dateOfBirthTimestamp": 986601600,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 9600000,
+            "proposedMarketValueRaw": {
+                "value": 9600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "مورتن فريندروب"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. فريندروب"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Morten Thorsby",
+            "slug": "morten-thorsby",
+            "shortName": "M. Thorsby",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "2",
+            "height": 189,
+            "preferredFoot": "Right",
+            "userCount": 485,
+            "gender": "M",
+            "id": 280991,
+            "country": {
+                "alpha2": "NO",
+                "name": "Norway"
+            },
+            "shirtNumber": 2,
+            "dateOfBirthTimestamp": 831254400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3500000,
+            "proposedMarketValueRaw": {
+                "value": 3500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "مورتن ثورسبي"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. ثورسبي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Josep Martínez",
+            "slug": "josep-martinez",
+            "shortName": "J. Martínez",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "1",
+            "height": 191,
+            "preferredFoot": "Right",
+            "userCount": 385,
+            "gender": "M",
+            "id": 845291,
+            "country": {
+                "alpha2": "ES",
+                "name": "Spain"
+            },
+            "shirtNumber": 1,
+            "dateOfBirthTimestamp": 896227200,
+            "proposedMarketValue": 4200000,
+            "proposedMarketValueRaw": {
+                "value": 4200000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "جوزيب مارتينز"
+                },
+                "shortNameTranslation": {
+                    "ar": "ج. مارتينز"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Stefano Sabelli",
+            "firstName": "",
+            "lastName": "",
+            "slug": "stefano-sabelli",
+            "shortName": "S. Sabelli",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "20",
+            "height": 179,
+            "preferredFoot": "Right",
+            "userCount": 130,
+            "gender": "M",
+            "id": 184421,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 20,
+            "dateOfBirthTimestamp": 726883200,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 1500000,
+            "proposedMarketValueRaw": {
+                "value": 1500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ستيفانو سابيلي"
+                },
+                "shortNameTranslation": {
+                    "ar": "س. سابيلي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Vitinha",
+            "firstName": "",
+            "lastName": "",
+            "slug": "vitinha",
+            "shortName": "Vitinha",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "9",
+            "height": 183,
+            "preferredFoot": "Right",
+            "userCount": 2129,
+            "gender": "M",
+            "id": 1093695,
+            "country": {
+                "alpha2": "PT",
+                "name": "Portugal"
+            },
+            "shirtNumber": 9,
+            "dateOfBirthTimestamp": 953078400,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 15700000,
+            "proposedMarketValueRaw": {
+                "value": 15700000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "فيتينيا"
+                },
+                "shortNameTranslation": {
+                    "ar": "فيتينيا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Albert Guðmundsson",
+            "slug": "albert-gudmundsson",
+            "shortName": "A. Guðmundsson",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "11",
+            "height": 178,
+            "preferredFoot": "Right",
+            "userCount": 1679,
+            "gender": "M",
+            "id": 804909,
+            "country": {
+                "alpha2": "IS",
+                "name": "Iceland"
+            },
+            "shirtNumber": 11,
+            "dateOfBirthTimestamp": 866332800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 14600000,
+            "proposedMarketValueRaw": {
+                "value": 14600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ألبرت جودموندسون"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. جودموندسون"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Mattia Bani",
+            "firstName": "",
+            "lastName": "",
+            "slug": "mattia-bani",
+            "shortName": "M. Bani",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "13",
+            "height": 188,
+            "preferredFoot": "Right",
+            "userCount": 262,
+            "gender": "M",
+            "id": 250547,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 13,
+            "dateOfBirthTimestamp": 755481600,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1900000,
+            "proposedMarketValueRaw": {
+                "value": 1900000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ماتيا بني"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. بني"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Kevin Strootman",
+            "slug": "kevin-strootman",
+            "shortName": "K. Strootman",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "8",
+            "height": 186,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 682,
+            "deceased": false,
+            "gender": "M",
+            "id": 34221,
+            "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+            },
+            "shirtNumber": 8,
+            "dateOfBirthTimestamp": 634867200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1100000,
+            "proposedMarketValueRaw": {
+                "value": 1100000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "كيفن ستروتمان"
+                },
+                "shortNameTranslation": {
+                    "ar": "ك. ستروتمان"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "David Ankeye",
+            "firstName": "",
+            "lastName": "",
+            "slug": "david-ankeye",
+            "shortName": "D. Ankeye",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "height": 191,
+            "preferredFoot": "Right",
+            "userCount": 135,
+            "gender": "M",
+            "id": 1457821,
+            "country": {
+                "alpha2": "NG",
+                "name": "Nigeria"
+            },
+            "dateOfBirthTimestamp": 1022025600,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 1100000,
+            "proposedMarketValueRaw": {
+                "value": 1100000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ديفيد أنكيي"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. أنكيي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Simone Calvani",
+            "firstName": "",
+            "lastName": "",
+            "slug": "simone-calvani",
+            "shortName": "S. Calvani",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "38",
+            "height": 189,
+            "preferredFoot": "Right",
+            "userCount": 11,
+            "gender": "M",
+            "id": 1462301,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 38,
+            "dateOfBirthTimestamp": 1116201600,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 47000,
+            "proposedMarketValueRaw": {
+                "value": 47000,
+                "currency": "EUR"
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Koni De Winter",
+            "firstName": "",
+            "lastName": "",
+            "slug": "de-winter-koni",
+            "shortName": "K. D. Winter",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "4",
+            "height": 188,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 1103,
+            "gender": "M",
+            "id": 1001828,
+            "country": {
+                "alpha2": "BE",
+                "name": "Belgium"
+            },
+            "shirtNumber": 4,
+            "dateOfBirthTimestamp": 1023840000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 6800000,
+            "proposedMarketValueRaw": {
+                "value": 6800000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "كوني دي فينتر"
+                },
+                "shortNameTranslation": {
+                    "ar": "ك. د. فينتر"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Pablo Galdames",
+            "firstName": "",
+            "lastName": "",
+            "slug": "pablo-galdames",
+            "shortName": "P. Galdames",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "99",
+            "height": 177,
+            "preferredFoot": "Right",
+            "userCount": 607,
+            "gender": "M",
+            "id": 386230,
+            "country": {
+                "alpha2": "CL",
+                "name": "Chile"
+            },
+            "shirtNumber": 99,
+            "dateOfBirthTimestamp": 851904000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 1400000,
+            "proposedMarketValueRaw": {
+                "value": 1400000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "غالدامس بابلو"
+                },
+                "shortNameTranslation": {
+                    "ar": "غ. بابلو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Ruslan Malinovskyi",
+            "slug": "ruslan-malinovskyi",
+            "shortName": "R. Malinovskyi",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "17",
+            "height": 181,
+            "preferredFoot": "Left",
+            "userCount": 4730,
+            "gender": "M",
+            "id": 195850,
+            "country": {
+                "alpha2": "UA",
+                "name": "Ukraine"
+            },
+            "shirtNumber": 17,
+            "dateOfBirthTimestamp": 736473600,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 10300000,
+            "proposedMarketValueRaw": {
+                "value": 10300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "رسلان مالينوفسكي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. مالينوفسكي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Johan Vásquez",
+            "firstName": "",
+            "lastName": "",
+            "slug": "johan-vasquez",
+            "shortName": "J. Vásquez",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "22",
+            "height": 185,
+            "preferredFoot": "Left",
+            "userCount": 2364,
+            "gender": "M",
+            "id": 889785,
+            "country": {
+                "alpha2": "MX",
+                "name": "Mexico"
+            },
+            "shirtNumber": 22,
+            "dateOfBirthTimestamp": 909014400,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 5600000,
+            "proposedMarketValueRaw": {
+                "value": 5600000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "فاسكيز، جون"
+                },
+                "shortNameTranslation": {
+                    "ar": "ف. جون"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Daniele Sommariva",
+            "firstName": "",
+            "lastName": "",
+            "slug": "daniele-sommariva",
+            "shortName": "D. Sommariva",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "39",
+            "height": 186,
+            "preferredFoot": "Right",
+            "userCount": 22,
+            "gender": "M",
+            "id": 595572,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 39,
+            "dateOfBirthTimestamp": 869184000,
+            "contractUntilTimestamp": 1751241600,
+            "proposedMarketValue": 110000,
+            "proposedMarketValueRaw": {
+                "value": 110000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دانييلي سوماريفا"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. سوماريفا"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Junior Messias",
+            "slug": "junior-messias",
+            "shortName": "J. Messias",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "10",
+            "height": 179,
+            "preferredFoot": "Left",
+            "userCount": 1768,
+            "gender": "M",
+            "id": 888219,
+            "country": {
+                "alpha2": "BR",
+                "name": "Brazil"
+            },
+            "shirtNumber": 10,
+            "dateOfBirthTimestamp": 674092800,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 2900000,
+            "proposedMarketValueRaw": {
+                "value": 2900000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميسياس ، جونيور"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. ، جونيور"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Aarón Martín",
+            "firstName": "",
+            "lastName": "",
+            "slug": "aaron-martin",
+            "shortName": "A. Martín",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "3",
+            "height": 180,
+            "preferredFoot": "Left",
+            "userCount": 469,
+            "gender": "M",
+            "id": 797286,
+            "country": {
+                "alpha2": "ES",
+                "name": "Spain"
+            },
+            "shirtNumber": 3,
+            "dateOfBirthTimestamp": 861667200,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 4900000,
+            "proposedMarketValueRaw": {
+                "value": 4900000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "مارتن, آرون"
+                },
+                "shortNameTranslation": {
+                    "ar": "آ. مارتن"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Emil Bohinen",
+            "firstName": "",
+            "lastName": "",
+            "slug": "emil-bohinen",
+            "shortName": "E. Bohinen",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "5",
+            "height": 185,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 280,
+            "gender": "M",
+            "id": 824584,
+            "country": {
+                "alpha2": "NO",
+                "name": "Norway"
+            },
+            "shirtNumber": 5,
+            "dateOfBirthTimestamp": 921196800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 3300000,
+            "proposedMarketValueRaw": {
+                "value": 3300000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "اميل بوهينين"
+                },
+                "shortNameTranslation": {
+                    "ar": "ا. بوهينين"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Franz Stolz",
+            "slug": "franz-stolz",
+            "shortName": "F. Stolz",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "G",
+            "jerseyNumber": "12",
+            "height": 193,
+            "userCount": 13,
+            "gender": "M",
+            "id": 985848,
+            "country": {
+                "alpha2": "AT",
+                "name": "Austria"
+            },
+            "shirtNumber": 12,
+            "dateOfBirthTimestamp": 982108800,
+            "contractUntilTimestamp": 1814313600,
+            "proposedMarketValue": 220000,
+            "proposedMarketValueRaw": {
+                "value": 220000,
+                "currency": "EUR"
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Alan Matturro",
+            "slug": "matturro-alan",
+            "shortName": "A. Matturro",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "33",
+            "height": 189,
+            "preferredFoot": "Left",
+            "retired": false,
+            "userCount": 943,
+            "deceased": false,
+            "gender": "M",
+            "id": 1177401,
+            "country": {
+                "alpha2": "UY",
+                "name": "Uruguay"
+            },
+            "shirtNumber": 33,
+            "dateOfBirthTimestamp": 1097452800,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 4099999,
+            "proposedMarketValueRaw": {
+                "value": 4099999,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "Matturro Romero, Alan"
+                },
+                "shortNameTranslation": {
+                    "ar": "A. M. Romero"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Ridgeciano Haps",
+            "firstName": "",
+            "lastName": "",
+            "slug": "ridgeciano-haps",
+            "shortName": "R. Haps",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "55",
+            "height": 175,
+            "preferredFoot": "Left",
+            "userCount": 257,
+            "gender": "M",
+            "id": 250501,
+            "country": {
+                "alpha2": "SR",
+                "name": "Suriname"
+            },
+            "shirtNumber": 55,
+            "dateOfBirthTimestamp": 739843200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 925000,
+            "proposedMarketValueRaw": {
+                "value": 925000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ريديجيانو هاپس"
+                },
+                "shortNameTranslation": {
+                    "ar": "ر. هاپس"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Djed Spence",
+            "firstName": "",
+            "lastName": "",
+            "slug": "djed-spence",
+            "shortName": "D. Spence",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "90",
+            "height": 184,
+            "preferredFoot": "Right",
+            "userCount": 1352,
+            "gender": "M",
+            "id": 945798,
+            "country": {
+                "alpha2": "EN",
+                "name": "England"
+            },
+            "shirtNumber": 90,
+            "dateOfBirthTimestamp": 965779200,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 8199999,
+            "proposedMarketValueRaw": {
+                "value": 8199999,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "دجيد سبينس"
+                },
+                "shortNameTranslation": {
+                    "ar": "د. سبينس"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Milan Badelj",
+            "slug": "milan-badelj",
+            "shortName": "M. Badelj",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "M",
+            "jerseyNumber": "47",
+            "height": 186,
+            "preferredFoot": "Right",
+            "userCount": 1149,
+            "gender": "M",
+            "id": 39482,
+            "country": {
+                "alpha2": "HR",
+                "name": "Croatia"
+            },
+            "shirtNumber": 47,
+            "dateOfBirthTimestamp": 604368000,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 825000,
+            "proposedMarketValueRaw": {
+                "value": 825000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ميلان باديلج"
+                },
+                "shortNameTranslation": {
+                    "ar": "م. باديلج"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Caleb Ekuban",
+            "firstName": "",
+            "lastName": "",
+            "slug": "caleb-ekuban",
+            "shortName": "C. Ekuban",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "18",
+            "height": 182,
+            "preferredFoot": "Right",
+            "userCount": 611,
+            "gender": "M",
+            "id": 309156,
+            "country": {
+                "alpha2": "GH",
+                "name": "Ghana"
+            },
+            "shirtNumber": 18,
+            "dateOfBirthTimestamp": 764380800,
+            "contractUntilTimestamp": 1719705600,
+            "proposedMarketValue": 950000,
+            "proposedMarketValueRaw": {
+                "value": 950000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "كاليب إيكوبان"
+                },
+                "shortNameTranslation": {
+                    "ar": "ك. إيكوبان"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Alessandro Vogliacco",
+            "slug": "alessandro-vogliacco",
+            "shortName": "A. Vogliacco",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "14",
+            "height": 186,
+            "preferredFoot": "Right",
+            "userCount": 95,
+            "gender": "M",
+            "id": 807295,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 14,
+            "dateOfBirthTimestamp": 905731200,
+            "contractUntilTimestamp": 1782777600,
+            "proposedMarketValue": 1900000,
+            "proposedMarketValueRaw": {
+                "value": 1900000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "أليساندرو فوغلياكو"
+                },
+                "shortNameTranslation": {
+                    "ar": "أ. فوغلياكو"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Mateo Retegui",
+            "firstName": "",
+            "lastName": "",
+            "slug": "mateo-retegui",
+            "shortName": "M. Retegui",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "F",
+            "jerseyNumber": "19",
+            "height": 186,
+            "preferredFoot": "Right",
+            "retired": false,
+            "userCount": 3702,
+            "gender": "M",
+            "id": 914501,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 19,
+            "dateOfBirthTimestamp": 925344000,
+            "contractUntilTimestamp": 1845936000,
+            "proposedMarketValue": 15500000,
+            "proposedMarketValueRaw": {
+                "value": 15500000,
+                "currency": "EUR"
+            },
+            "fieldTranslations": {
+                "nameTranslation": {
+                    "ar": "ريتيجوي"
+                },
+                "shortNameTranslation": {
+                    "ar": "ريتيجوي"
+                }
+            }
+        }
+    },
+    {
+        "player": {
+            "name": "Giorgio Cittadini",
+            "slug": "giorgio-cittadini",
+            "shortName": "G. Cittadini",
+            "team": {
+                "name": "Genoa",
+                "slug": "genoa",
+                "shortName": "Genoa",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "tournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "uniqueTournament": {
+                        "name": "Serie A",
+                        "slug": "serie-a",
+                        "primaryColorHex": "#09519e",
+                        "secondaryColorHex": "#008fd7",
+                        "category": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "sport": {
+                                "name": "Football",
+                                "slug": "football",
+                                "id": 1
+                            },
+                            "id": 31,
+                            "country": {
+                                "alpha2": "IT",
+                                "name": "Italy"
+                            },
+                            "flag": "italy",
+                            "alpha2": "IT"
+                        },
+                        "userCount": 810017,
+                        "id": 23,
+                        "country": {},
+                        "displayInverseHomeAwayTeams": false
+                    },
+                    "priority": 598,
+                    "id": 33
+                },
+                "primaryUniqueTournament": {
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "primaryColorHex": "#09519e",
+                    "secondaryColorHex": "#008fd7",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "country": {
+                            "alpha2": "IT",
+                            "name": "Italy"
+                        },
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "userCount": 810017,
+                    "id": 23,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "userCount": 63336,
+                "nameCode": "GEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2713,
+                "country": {
+                    "alpha2": "IT",
+                    "name": "Italy"
+                },
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#660000",
+                    "text": "#660000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "نادي جنوى"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "position": "D",
+            "jerseyNumber": "23",
+            "height": 184,
+            "preferredFoot": "Right",
+            "userCount": 126,
+            "gender": "M",
+            "id": 1001847,
+            "country": {
+                "alpha2": "IT",
+                "name": "Italy"
+            },
+            "shirtNumber": 23,
+            "dateOfBirthTimestamp": 1019088000,
+            "contractUntilTimestamp": 1719619200,
+            "proposedMarketValue": 3100000,
+            "proposedMarketValueRaw": {
+                "value": 3100000,
+                "currency": "EUR"
+            }
+        }
+    }
+]
